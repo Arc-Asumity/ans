@@ -1,4 +1,4 @@
-# ans
+# Ans
 A special dns server, allow secure protocal, and hold out RFC 2136.
 
 Copyright © 2025 Arc Asumity.
