@@ -24,3 +24,7 @@ target
 # Added by cargo
 
 /target
+
+# UML
+docs/ans.vpp.bak*
+docs/.ans*
