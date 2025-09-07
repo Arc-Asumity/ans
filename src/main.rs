@@ -6,6 +6,7 @@
 // Entry point of the arcme ACME client.
 
 mod arg;
+mod conf;
 
 fn main() {
     init();
