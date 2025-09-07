@@ -1,7 +1,7 @@
 # Ans
 A special dns server, allow secure protocal, and hold out RFC 2136.
 
-# Community
+## Community
 
 - [Discord](https://discord.gg/ghfTfPjQ)
 
